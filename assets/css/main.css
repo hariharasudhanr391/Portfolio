@@ -315,10 +315,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 33vh;
-  left: 25vw;
-  animation: meteor 4690ms linear infinite;
-  animation-delay: 3088ms;
+  top: 76vh;
+  left: 55vw;
+  animation: meteor 5022ms linear infinite;
+  animation-delay: 165ms;
 }
 #home .meteor-shower .meteor:nth-child(2) {
   position: absolute;
@@ -326,10 +326,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 35vh;
-  left: 79vw;
-  animation: meteor 6513ms linear infinite;
-  animation-delay: 3076ms;
+  top: 86vh;
+  left: 21vw;
+  animation: meteor 5239ms linear infinite;
+  animation-delay: 4414ms;
 }
 #home .meteor-shower .meteor:nth-child(3) {
   position: absolute;
@@ -337,10 +337,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 24vh;
-  left: 58vw;
-  animation: meteor 7602ms linear infinite;
-  animation-delay: 1545ms;
+  top: 4vh;
+  left: 82vw;
+  animation: meteor 6473ms linear infinite;
+  animation-delay: 2800ms;
 }
 #home .meteor-shower .meteor:nth-child(4) {
   position: absolute;
@@ -348,10 +348,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 93vh;
-  left: 9vw;
-  animation: meteor 7906ms linear infinite;
-  animation-delay: 533ms;
+  top: 13vh;
+  left: 89vw;
+  animation: meteor 7089ms linear infinite;
+  animation-delay: 3913ms;
 }
 #home .meteor-shower .meteor:nth-child(5) {
   position: absolute;
@@ -359,10 +359,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 41vh;
-  left: 50vw;
-  animation: meteor 4162ms linear infinite;
-  animation-delay: 4336ms;
+  top: 34vh;
+  left: 71vw;
+  animation: meteor 7778ms linear infinite;
+  animation-delay: 4127ms;
 }
 #home .meteor-shower .meteor:nth-child(6) {
   position: absolute;
@@ -370,10 +370,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 25vh;
-  left: 19vw;
-  animation: meteor 6895ms linear infinite;
-  animation-delay: 3824ms;
+  top: 81vh;
+  left: 23vw;
+  animation: meteor 4160ms linear infinite;
+  animation-delay: 2790ms;
 }
 #home .meteor-shower .meteor:nth-child(7) {
   position: absolute;
@@ -381,10 +381,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 31vh;
-  left: 21vw;
-  animation: meteor 4242ms linear infinite;
-  animation-delay: 3085ms;
+  top: 64vh;
+  left: 17vw;
+  animation: meteor 5342ms linear infinite;
+  animation-delay: 4717ms;
 }
 #home .meteor-shower .meteor:nth-child(8) {
   position: absolute;
@@ -392,10 +392,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 37vh;
-  left: 95vw;
-  animation: meteor 3320ms linear infinite;
-  animation-delay: 3395ms;
+  top: 26vh;
+  left: 86vw;
+  animation: meteor 7318ms linear infinite;
+  animation-delay: 2057ms;
 }
 #home .meteor-shower .meteor:nth-child(9) {
   position: absolute;
@@ -403,10 +403,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 48vh;
-  left: 79vw;
-  animation: meteor 4704ms linear infinite;
-  animation-delay: 2418ms;
+  top: 56vh;
+  left: 13vw;
+  animation: meteor 4762ms linear infinite;
+  animation-delay: 4612ms;
 }
 #home .meteor-shower .meteor:nth-child(10) {
   position: absolute;
@@ -414,10 +414,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 56vh;
-  left: 12vw;
-  animation: meteor 6003ms linear infinite;
-  animation-delay: 370ms;
+  top: 98vh;
+  left: 35vw;
+  animation: meteor 3599ms linear infinite;
+  animation-delay: 3279ms;
 }
 #home .meteor-shower .meteor:nth-child(11) {
   position: absolute;
@@ -425,10 +425,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 47vh;
-  left: 21vw;
-  animation: meteor 6623ms linear infinite;
-  animation-delay: 2696ms;
+  top: 43vh;
+  left: 97vw;
+  animation: meteor 4178ms linear infinite;
+  animation-delay: 4668ms;
 }
 #home .meteor-shower .meteor:nth-child(12) {
   position: absolute;
@@ -436,10 +436,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 91vh;
-  left: 30vw;
-  animation: meteor 5483ms linear infinite;
-  animation-delay: 3068ms;
+  top: 90vh;
+  left: 15vw;
+  animation: meteor 5889ms linear infinite;
+  animation-delay: 739ms;
 }
 #home .meteor-shower .meteor:nth-child(13) {
   position: absolute;
@@ -447,10 +447,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 51vh;
-  left: 32vw;
-  animation: meteor 5350ms linear infinite;
-  animation-delay: 4374ms;
+  top: 12vh;
+  left: 83vw;
+  animation: meteor 5572ms linear infinite;
+  animation-delay: 1341ms;
 }
 #home .meteor-shower .meteor:nth-child(14) {
   position: absolute;
@@ -458,10 +458,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 23vh;
-  left: 99vw;
-  animation: meteor 4121ms linear infinite;
-  animation-delay: 4383ms;
+  top: 29vh;
+  left: 81vw;
+  animation: meteor 3985ms linear infinite;
+  animation-delay: 1494ms;
 }
 #home .meteor-shower .meteor:nth-child(15) {
   position: absolute;
@@ -469,10 +469,10 @@ main > section header.has-bg img {
   width: 60px;
   height: 49px;
   opacity: 0;
-  top: 94vh;
-  left: 84vw;
-  animation: meteor 7367ms linear infinite;
-  animation-delay: 412ms;
+  top: 5vh;
+  left: 75vw;
+  animation: meteor 5525ms linear infinite;
+  animation-delay: 2782ms;
 }
 
 @keyframes meteor {
